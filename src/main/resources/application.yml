@@ -1,0 +1,5 @@
+spring:
+    datasource:
+        url: jdbc:mysql://malhidb.csgmkwppc43a.us-east-2.rds.amazonaws.com:3306/pragra
+        username: admin
+        password: Pragra123
